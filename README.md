@@ -16,7 +16,7 @@
 
 <p>While I approach my work with seriousness and dedication, I firmly believe in enjoying the journey. Join me on this thrilling learning adventure as we dive headfirst into the captivating world of data science.</p>
 
-<p>Make sure to connect with me on GitHub, Medium, and LinkedIn to stay updated with a continuous flow of practical and educational content.</p>
+<p>Make sure to connect with me on GitHub, and LinkedIn to stay updated with a continuous flow of my projects.</p>
 
 <div style="text-align: center;">
   <a href="https://github.com/Neha-Jasani" target="_blank">Explore My Data Science Portfolio</a>
