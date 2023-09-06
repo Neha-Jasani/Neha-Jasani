@@ -3,7 +3,9 @@
   <h3>A Passionate Software Developer, Data Scientist, and Data Analyst from Calgary, Canada</h3>
 </div>
 
-<p>Welcome to my GitHub profile! I'm a dedicated Data Scientist actively seeking exciting job opportunities. Here's a glimpse of who I am:</p>
+<p>Welcome to my GitHub profile! I'm a dedicated Data Scientist actively seeking exciting job opportunities.</p> 
+
+<p>Here's a glimpse of who I am:</p>
 
 <ul>
   <li>I'm a lifelong learner, always enthusiastic about acquiring new skills.</li>
