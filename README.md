@@ -1,5 +1,26 @@
 <h1 align="center">👋 Hello, I'm Neha</h1>
-<h3 align="center">A passionate Software developer, Data Scientist, and Data Analyst from Calgary, Canada. Welcome to my GitHub! I'm a passionate Data Scientist on the lookout for exciting new job opportunities. Here's a glimpse of who I am: I'm a dedicated learner, always eager to acquire new skills. I thrive on building innovative solutions and am not afraid to take bold steps. My curiosity drives me to explore uncharted territories in the world of data and technology. I'm a results-oriented individual who loves taking action to tackle meaningful problems. While I'm serious about my work, I believe in having a blast along the way! Join me on this exciting learning journey as we delve into the world of data science together. Be sure to follow me on GitHub, Medium, and LinkedIn for a steady stream of practical and educational content. To get a better sense of my work, check out my data science portfolio below. Each project and article has been inspired by my curiosity and motivation. Don't hesitate to reach out if you'd like to chat about topics that interest both of us! Let's connect and explore the fascinating world of data science.</h3>
+<div style="text-align: center;">
+  <h3>A Passionate Software Developer, Data Scientist, and Data Analyst from Calgary, Canada</h3>
+</div>
+
+<p>Welcome to my GitHub profile! I'm a dedicated Data Scientist actively seeking exciting job opportunities. Here's a glimpse of who I am:</p>
+
+<ul>
+  <li>I'm a lifelong learner, always enthusiastic about acquiring new skills.</li>
+  <li>I have a knack for crafting innovative solutions and fearlessly taking on challenges.</li>
+  <li>My insatiable curiosity propels me to explore uncharted territories in the realms of data and technology.</li>
+  <li>I'm a goal-driven individual who thrives on solving meaningful problems.</li>
+</ul>
+
+<p>While I approach my work with seriousness and dedication, I firmly believe in enjoying the journey. Join me on this thrilling learning adventure as we dive headfirst into the captivating world of data science.</p>
+
+<p>Make sure to connect with me on GitHub, Medium, and LinkedIn to stay updated with a continuous flow of practical and educational content.</p>
+
+<div style="text-align: center;">
+  <a href="https://github.com/yourusername" target="_blank">Explore My Data Science Portfolio</a>
+</div>
+
+<p>Every project and article you'll find there is a product of my boundless curiosity and unwavering motivation. Feel free to reach out if you'd like to have a conversation about topics that interest both of us. Let's connect and embark on an exciting journey through the fascinating world of data science.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-jasani&label=Profile%20views&color=0e75b6&style=flat" alt="neha-jasani" /> </p>
 
