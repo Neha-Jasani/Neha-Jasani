@@ -17,7 +17,7 @@
 <p>Make sure to connect with me on GitHub, Medium, and LinkedIn to stay updated with a continuous flow of practical and educational content.</p>
 
 <div style="text-align: center;">
-  <a href="https://github.com/yourusername" target="_blank">Explore My Data Science Portfolio</a>
+  <a href="https://github.com/Neha-Jasani" target="_blank">Explore My Data Science Portfolio</a>
 </div>
 
 <p>Every project and article you'll find there is a product of my boundless curiosity and unwavering motivation. Feel free to reach out if you'd like to have a conversation about topics that interest both of us. Let's connect and embark on an exciting journey through the fascinating world of data science.</p>
