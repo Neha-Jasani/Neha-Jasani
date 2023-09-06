@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Python, AI, ML, HTML, CSS, NLP,Django, Flask, Professional Communication**
 
-- 📫 How to reach me **jasanineha11@gmail.com**
+- 📫 How to reach me **jasanineha10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
