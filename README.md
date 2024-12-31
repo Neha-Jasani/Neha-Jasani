@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Neha</h1>
 <div style="text-align: center;">
-  <h3>A Passionate Software Developer, Data Scientist, and Data Analyst from Calgary, Canada</h3>
+  <h3>A Passionate Data Scientist, and Data Analyst from Calgary, Canada</h3>
 </div>
 
 <p>Welcome to my GitHub profile! I'm a dedicated Data Scientist actively seeking exciting job opportunities.</p> 
